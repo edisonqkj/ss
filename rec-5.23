@@ -1,0 +1,17 @@
+Day 1:
+0: update version of QGIS:
+course tutorial: http://mapmaking.info/index.php/Main_Page#OSGeo_Live 
+tutorial: http://mapmaking.info/index.php/Things_To_Do_After_Installing_OSGeo_Live_7.9
+
+1: explore vector data in QGIS
+ 1-1: select features in attribute tables using column filter
+ 1-2: stylize features
+2: trigger actions on features
+ 2-1: categorize features
+ 2-2: label with map scale
+ 2-3: add actions for layer e.g. search on web for specific place with its name got from its field
+3: vector analysis with QGIS
+ 3-1: buffer, clip, geometry calculation
+      delete columns: table manager plugin is needed & only with it
+4: georeferencing maps with QGIS
+ 4-1: georeference, save GCP

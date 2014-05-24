@@ -1,0 +1,7 @@
+Day 2:
+1: create vector data with QGIS
+ 1-1: digitize points
+ 1-2: hillshade, slope, aspect, profile, raster calculator
+2: database
+ 2-1: using pgadmin III: add new extension of postgis which will add a new table of coordinates definitions
+ 2-2: run SQL queries in pgadmin iii
