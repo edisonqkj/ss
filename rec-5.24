@@ -5,3 +5,4 @@ Day 2:
 2: database
  2-1: using pgadmin III: add new extension of postgis which will add a new table of coordinates definitions
  2-2: run SQL queries in pgadmin iii
+ 2-3: connect database with QGIS and explore geomtries with SQL query
