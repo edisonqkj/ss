@@ -1,0 +1,9 @@
+Day 3:
+1: database triggers
+ 1-1: add a new table using SQL language in pgadmin iii
+ 1-2: add a new column 'area' and update it with wkb_geometry field
+ 1-3: trigger (important): each trigger function is individually responding to the table used in function, be carefull about 'BEFORE, AFTER' in SQL
+2: routine with OSM data
+ 2-1: routino setup, download china data
+ 2-2: find a shortest routine in gpx,text file
+ 2-3: render China data on website
